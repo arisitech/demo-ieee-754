@@ -200,7 +200,7 @@ def normalisasi(biner_str, nilai_asli):
 st.markdown("""
 <div class="header-box">
     <h2>🔢 Animasi Konversi Pecahan ke IEEE 754</h2>
-    <p>Arsitektur dan Organisasi Komputer &nbsp;·&nbsp; STTI NIIT Jakarta &nbsp;·&nbsp; Arismunandar, M.T.I.</p>
+    <p>Arsitektur dan Organisasi Komputer</p>
 </div>
 """, unsafe_allow_html=True)
 
